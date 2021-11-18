@@ -34,13 +34,13 @@
 
 1. 扫成操作
 
-   ![result1](/Users/siyuanzhang/zsy_cadModelingHw/result1.png)
+   ![result1](result1.png)
 
 2. 欧拉操作生成的任意多环实体模型
 
-   ![result2](/Users/siyuanzhang/zsy_cadModelingHw/result2.png)
+   ![result2](result2.png)
 
-![result3](/Users/siyuanzhang/zsy_cadModelingHw/result3.png)
+![result3](result3.png)
 
 ## 操作说明
 
